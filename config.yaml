@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://xdavidchen.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: xdavidchen
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -27,10 +27,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /favicon.ico
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -38,16 +38,16 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🌎
+        subtitle: Introverted Creative
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/avatar.jpg
 
     article:
         math: false
-        toc: true
+        toc: false
         readingTime: true
         license:
             enabled: true
