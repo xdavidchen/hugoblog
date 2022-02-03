@@ -177,22 +177,21 @@ menu:
           weight: -100
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: true
+              newTab: false
               icon: home
     
-    social:
-    enabled: false
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-            icon: brand-github
+    # social:
+        #- identifier: github
+        #  name: GitHub
+        #  url: https://github.com/CaiJimmy/hugo-theme-stack
+        #  params:
+        #    icon: brand-github
             
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-            icon: brand-twitter
+        #- identifier: twitter
+        #  name: Twitter
+        #  url: https://twitter.com
+        #  params:
+        #    icon: brand-twitter
 
 related:
     includeNewer: true
