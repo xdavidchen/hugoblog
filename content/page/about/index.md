@@ -30,7 +30,7 @@ If you're now a bit more convinced and curious of who I am, then below are some 
 - I'm trying to understand the computer world. Specifically front-end development at this stage. The main reason is that I work at a [software startup](https://giftpack.ai/). And people are geeks there.
 - I read a lot. I'll try to organize my thoughts and share them on this blog.
 
-Lastly, [I'm actually an introvert](/content/post/c2c/index.md), though most of the people (and many of my real life friends) can't tell. It's extremely difficult for me to be courageous enough to speak up and share my personal thoughts on life. *Disclaimer: I speak up very well in classrooms.* After years of thinking and reflecting, I decided to put up this blog and started sharing my personal development. I encourage you (if you're an introvert too) do the same and let the world hear you whenever you're ready.
+Lastly, [I'm actually an introvert](https://xdavidchen.com/p/c2c-from-a-consumer-to-a-creator/), though most of the people (and many of my real life friends) can't tell. It's extremely difficult for me to be courageous enough to speak up and share my personal thoughts on life. *Disclaimer: I speak up very well in classrooms.* After years of thinking and reflecting, I decided to put up this blog and started sharing my personal development. I encourage you (if you're an introvert too) do the same and let the world hear you whenever you're ready.
 
 ## If you are so touched that you have to reach out to me:
 
