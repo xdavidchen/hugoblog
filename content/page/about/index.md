@@ -3,7 +3,7 @@ title: About
 description: I'm David Chen. Welcome to my personal blog!
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-02-03'
+lastmod: '2022-02-08'
 menu:
     main: 
         weight: -90
@@ -12,56 +12,32 @@ menu:
 image: avatar-banner.jpg
 ---
 
-Hello, 哈囉, Servus, it's really nice to see you here.
+## Welcome to my personal blog
 
-Since you're on the "About" page, I assume you'd like to know me better (you already learn that I speak 3 languages, although my German sucks).
+Hello, 哈囉, Hallo! I'm David. I was born and grew up in Taiwan. An English major. An introvert.
 
-### AUTOBIOGRAPHY... kind of
-I was born and raised in Taiwan 🇹🇼, graduated as an English major from Fu Jen Catholic University, currectly being employed as a Digital Marketer at an internationally-operated startup.
+If you're smart enough, you can already tell I speak 3 languages, though my German sucks. And you might be wondering why you are seeing English on this blog, considering Mandarin is my native and the only language I use fluently. Receiving all the educational trainings in English during college has made me feel much more comfortable expressing myself in English. I consider this blog a place for me to explore and express. Hence it's going to be in English.
 
-### Chapter 1: The Beginning of My English Learning Journey
-My interest in learning English grew when I first visited the U.S 🇺🇸 in the summer before going to junior high school. It was 10 years ago. Can you believe how fast time flies? I spent the typical Taiwanese 2-month summer vacation in Nashville, Tenesse with my aunt and the family.
+## Are you an old man? Modern people don't do blogging anymore
 
-Going back to Taiwan, I was almost always the number one killing all the English tests at school (Not to brag. Ask Duncan, my English teacher). Learning becaouse of personal interest will bring the best result. That's why I'm quite competent with using English. My goal is to use the language like a native (though it's technically impossible, but I'm trying my best).
+Well... I'm old enough to make thoughtful decisions. And cutting down the use of social media platforms is one of the best decisions I've made in life so far. I quitted social media **completely** for almost a year in 2021.
 
-### Chapter 2: Why I'm Using English but not Mandarin
-I'm a native Mandarin Chinese speaker. I don't sound native in English. So why the hell am I using English instead of my native language? The biggest reason is that education in Taiwan is SAD. It's always supressed. Students don't get to talk in classrooms. Plus, my parents grew up under a historical background that was even more conservative (surprise!), my family is just one of the typical ones in Asian culture. We don't really express our feelings, even to the closest friends and siblings.
+Now some of you guys are shouting "**I see you have a public Instagram account!**" The only reason I'm back on social media this year is that I see them as platforms for self-promotion. I'm a passionate learner. I learn photography, graphic design, and illustration, and many more. The platforms will only be served as places for me to share my work, post educational content, and mainly — **tell people the existence of this blog you're reading.**
 
-Majoring in English in college, I was fortunate enough to meet some amazing professors and mentors, who helped me grow confidence expressing myself (only limited to academia though) in English. Now I'm pretty sure I have 2 total different personalities while using 2 languages. And English, if you're smart enough, is the language I feel much more comfortable for self-expression.
+If you're now a bit more convinced and curious of who I am, then below are some interests of mine:
 
-### Chapter 3: My Study Abroad Experience (during COVID)
-I'm too tired recalling from memory and organizing thoughts now. Just let me jot down some notes. I'll get back and write okay?
+- I (kind of) like traveling, I've been to quite a few countries 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷. And I have tons of anecdotes to share. 
+- I'm trying to understand the computer world. Specifically front-end development at this stage. The main reason is that I work at a [software startup](https://giftpack.ai/). And people are geeks there.
+- I read a lot. I'll try to organize my thoughts and share them on this blog.
 
-- It has to do with the trip to the States.
-- Vanderbilt
-- FJU dual degree
-- Startup
-- University of Bayreuth
-- FAILURE!!
+Lastly, I'm actually an introvert, though most of the people (and many of my real life friends) can't tell. It's extremely difficult for me to be courageous enough to speak up and share my personal thoughts on life. *Disclaimer: I speak up very well in classrooms.* After years of thinking and reflecting, I decided to put up this blog and started sharing my personal development. I encourage you (if you're an introvert too) do the same and let the world hear you whenever you're ready.
 
-### Chapter 4: I Fell in Love with Travelling (again... kind of)
-- EU backpacking
-- Oh my god I have too many stories to tell about all the countires I've been to.
-- Countires I've been to:
-  - 🇹🇼
-  - 🇯🇵
-  - 🇮🇩
-  - 🇺🇸
-  - 🇲🇴
-  - 🇰🇷
-  - 🇸🇬
-  - 🇦🇺
-  - 🇮🇳
-  - 🇩🇪
-  - 🇦🇹
-  - 🇭🇺
-  - 🇨🇿
-  - 🇳🇱
-  - 🇧🇪
-  - 🇱🇺
-  - 🇫🇷
-  - more coming in the future...
+## If you are so touched that you have to reach out to me:
 
-### Chapter 5: Working At A Startup
+As I said, I'm not a big fan of social media. But if you have to send me a dm, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). Please don't expect me following back. I don't open it often. And I hate social comparisons.
 
-### To be continued...
+The preffered way for conneting with me is through email. Send me your thoughts, comments, and feedback to this email address: [xdavidchen@tutlamail.com](mailto:xdavidchen@tutamail.com)
+
+I'll reply you when I have the time. (replies are totally **NOT** guaranteed)
+
+Oh, and for those who have already added me on your chatting apps, you're in luck, cuz not many people have it.
