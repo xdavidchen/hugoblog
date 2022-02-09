@@ -16,8 +16,6 @@ tags = [
     
 +++
 
-# C2C: from a Consumer to a Creator
-
 As an introvert, the information I receive everyday is overwhelming. Among the overloaded information, only a fraction of them are inspiring - most of them are useless to me.
 
 Recently, I'm having a stronger feeling that always being the passive receiver of information is not a good idea. That means we are always accepting other's opinion. The way we defend ourselves, as introverts, is only happening in our brains.
