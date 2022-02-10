@@ -47,6 +47,8 @@ These are the features of services and functions that help solve customers' pain
 
 Additional services and products of the company that satisfy or even surprise customers.
 
+![](value-proposition-canvas.jpeg)
+
 ## Market-fit
 
 When the two profiles match, that means the product finds a market fit, which is the most ideal scenario.
