@@ -35,6 +35,8 @@ Gains are what the customers expect from this products other than the basic func
 
 ## Product Profile
 
+Product profile is business-centered. It shows how company's products / services respond to the customer profiles on 3 angles, which should correspond to customer's job, pains, and gains.
+
 ### Product & Service
 
 **Basic** services and functions the company provides. This should help the customers complete their "*jobs*".
