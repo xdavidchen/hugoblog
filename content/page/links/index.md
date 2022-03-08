@@ -5,10 +5,6 @@ links:
     description: The world's fastest framework for building websites
     website: https://gohugo.io/
     image: https://gitlab.com/uploads/-/system/project/avatar/912096/hugo.png
-  - title: Typora
-    description: a markdown editor, markdown reader
-    website: https://typora.io/
-    image: typora-logo-512.png
   - title: Brave
     description: Secure, Fast & Private Web Browser with Adblocker
     website: https://brave.com/
