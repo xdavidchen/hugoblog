@@ -12,6 +12,8 @@ categories = [
 tags = [
     "business-foundations",
 ]
+
+draft = "true"
     
 +++
 
