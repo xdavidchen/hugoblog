@@ -17,6 +17,10 @@ links:
     description: Tutanota is the world's most secure email service, easy to use and private by design.
     website: https://tutanota.com/
     image: https://play-lh.googleusercontent.com/UBGVnr65n9hqx9-751VTo8d8l-9_bTzwcAzwXa5k-QQ-4UYKu0wY8I8v7Vzq-T4_lQ
+  - title: Zettlr
+    description: A Markdown Editor for the 21st Century
+    website: https://www.zettlr.com/
+    image: https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/512x512.png
 menu:
     main: 
         weight: -50
@@ -26,3 +30,5 @@ menu:
 comments: false
 license: false
 ---
+
+Some great tools I use on a daily basis.
