@@ -2,7 +2,7 @@
 author = "David Chen"
 title = "C2C: from a Consumer to a Creator"
 date = "2022-02-08"
-description = "Just a monologue"
+description = "monologue from a typycal introvert"
 image = "IMG_1877.JPG"
 categories = [
     "thoughts"
