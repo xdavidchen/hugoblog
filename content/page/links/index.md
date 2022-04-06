@@ -23,7 +23,7 @@ links:
     image: https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/512x512.png
 menu:
     main: 
-        weight: -50
+        weight: -70
         params:
             icon: link
 
