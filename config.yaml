@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🌎
-        subtitle: Ambivert
+        subtitle: Ambivert, inspired by life
         avatar:
             enabled: true
             local: true
