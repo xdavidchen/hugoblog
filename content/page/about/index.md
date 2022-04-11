@@ -9,7 +9,7 @@ menu:
         weight: -90
         params:
             icon: user
-image: avatar-banner.jpg
+image: avatar-banner-2.jpg
 ---
 
 ## Welcome to my personal blog
@@ -36,7 +36,7 @@ Lastly, [I'm actually an introvert](https://xdavidchen.com/p/c2c-from-a-consumer
 
 As I said, I'm not a big fan of social media. But if you have to send me a dm, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). Please don't expect me following back. I don't open it often. And I hate social comparisons.
 
-The preffered way for conneting with me is through email. Send me your thoughts, comments, and feedback to this email address: [xdavidchen@tutlamail.com](mailto:xdavidchen@tutamail.com)
+The preffered way for conneting with me is through email. Send me your thoughts, comments, and feedback to this email address: [xdavidchen@tutlamail.com](mailto:davidchen@xdavidchen.com)
 
 I'll reply you when I have the time. (replies are totally **NOT** guaranteed)
 
