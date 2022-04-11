@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /img/favicon.jpg # added an img folder under static and link here
+    favicon: /img/favicon-2.jpg # added an img folder under static and link here
 
     footer:
         since: 2021
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🌎
-        subtitle: Introverted Creative
+        subtitle: Ambivert
         avatar:
             enabled: true
             local: true
