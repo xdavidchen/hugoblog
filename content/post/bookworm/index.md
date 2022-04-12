@@ -4,6 +4,7 @@ title = "Be a wise bookworm"
 date = "2022-04-12"
 description = "read with a purpose"
 slug = "be-a-wise-bookworm"
+image = "book.jpeg"
 categories = [
     "learning"
 ]
