@@ -5,15 +5,13 @@ date = "2022-04-12"
 description = "read with a purpose"
 slug = "be-a-wise-bookworm"
 categories = [
-    "reflection"
+    "learning"
 ]
 
 tags = [
     "reading"
 ]
 +++
-
-# Be a wise bookworm
 
 Don't read best-sellers because everyone is reading them.
 

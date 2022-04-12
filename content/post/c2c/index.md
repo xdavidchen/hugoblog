@@ -5,7 +5,7 @@ date = "2022-02-08"
 description = "monologue from a typycal introvert"
 image = "IMG_1877.JPG"
 categories = [
-    "thoughts"
+    "personal-story"
 ]
 
 tags = [

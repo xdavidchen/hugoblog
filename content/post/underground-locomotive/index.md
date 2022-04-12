@@ -6,11 +6,13 @@ description = "welcome to NYC"
 image = "steam-in-nyc.jpg"
 slug = "underground-locomotive"
 categories = [
-    "photography"
+    "photography",
 ]
 
 tags = [
-    "travel", "nyc"
+    "travel",
+    "nyc",
+    "usa"
 ]
     
 +++
