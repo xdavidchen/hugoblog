@@ -1,6 +1,6 @@
 ---
 title: "photography"
-description: "This is an example category"
+description: "Who doesn't like beautiful things?"
 slug: "photography"
-image: "IMG_2669.JPG"
+image: "photography.jpg"
 ---

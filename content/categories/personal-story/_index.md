@@ -1,6 +1,6 @@
 ---
 title: "personal-story"
-description: "This is an example category"
+description: "Based on true stories"
 slug: "personal-story"
-image: "IMG_2541.JPG"
+image: "personal-story.jpg"
 ---
