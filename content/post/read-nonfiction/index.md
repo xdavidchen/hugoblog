@@ -18,8 +18,11 @@ tags = [
 A guide to reading non-fictions
 
 Leave out the author's personal story.
+
 Get the core idea.
+
 Leave out research and data.
+
 Understand how the idea works.
 
 Experiment in life and decide *critically* if you will keep the idea.
