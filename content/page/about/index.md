@@ -27,9 +27,10 @@ Soon it becomes toxic without realizing how grateful we should be of the life we
 ## Some fun facts about me
 - I (kind of) like traveling, I've been to quite a few countries 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷. And I have tons of stories to share.
 - I'm trying to understand the computer world. Specifically front-end development at this stage. The main reason is that I work at a [software startup](https://giftpack.ai/). And people are geeks there.
+- I'm into design too. If you're into Graphic Design, Illustration, or Motion Graphics, share your work with me!
 - I read a lot. I'll try to organize my thoughts and share them on this blog. They're going to be helpful I promise.
 
-## If you want to reach out to me:
+## If you want to reach out:
 
 I'm not a big fan of social media. But if you have to send me a message, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). 
 
