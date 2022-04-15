@@ -2,7 +2,6 @@
 author = "David Chen"
 title = "Dear English majors:"
 date = "2022-04-13"
-description = "don't worry too much just yet"
 slug = "learn-interpersonal-skills"
 image = "shakespear.jpeg"
 categories = [

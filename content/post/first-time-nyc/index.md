@@ -2,7 +2,6 @@
 author = "David Chen"
 title = "First Time in NYC"
 date = "2022-04-11"
-description = "a city where magic happens"
 image = "first-time-in-nyc.jpg"
 slug = "first-time-in-nyc"
 categories = [
