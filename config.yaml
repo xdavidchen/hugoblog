@@ -180,7 +180,7 @@ menu:
               newTab: false
               icon: home
     
-    # social:
+    #social:
         #- identifier: github
         #  name: GitHub
         #  url: https://github.com/CaiJimmy/hugo-theme-stack
@@ -208,7 +208,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
