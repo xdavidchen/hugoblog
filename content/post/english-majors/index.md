@@ -16,11 +16,11 @@ tags = [
 
 Dear English majors:
 
-Study literature and learn how weridly diverse cultures can be.
+Study literature and learn how weridly diverse cultures can be.<br>
 
-Study linguistics and apply speech of acts to your real life discourses.
+Study linguistics and apply speech of acts to your real life discourses.<br>
 
-Study thinking.
+Study thinking.<br>
 Think critically. Think creatively. Think with clarity.
 
 Interpersonal skills are the foundation of a successful business.

@@ -18,7 +18,7 @@ tags = [
 
 Why say the same things again when those things already exist?
 
-Because people aren’t listening all the time.
+Because people aren’t listening all the time.<br>
 Because not everyone consumes information in the same way.
 
 So why not help by saying it again, for those who weren’t listening, for those who learn in another way.

@@ -15,10 +15,10 @@ tags = [
 ]
 +++
 
-Hardskills can wait.
-Don't worry about acquiring one just yet.
+Hardskills can wait.<br>
+Don't worry about acquiring one just yet.<br>
 It serves a purpose of telling people what you can do.
 
-Softskills require time.
-Stop hesitating and start **leading**.
+Softskills require time.<br>
+Stop hesitating and start **leading**.<br>
 It serves a purpose of telling people **who you are**.
