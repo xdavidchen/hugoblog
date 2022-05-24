@@ -29,6 +29,7 @@ menu:
 
 comments: false
 license: false
+disableShare: true
 ---
 
 Some great tools I use on a daily basis.

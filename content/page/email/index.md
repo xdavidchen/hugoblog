@@ -8,6 +8,7 @@ menu:
         weight: -80
         params:
             icon: mail
+disableShare: true
 ---
 
 Hey friends,

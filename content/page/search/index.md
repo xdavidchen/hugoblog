@@ -10,4 +10,5 @@ menu:
         weight: -50
         params: 
             icon: search
+disableShare: true
 ---

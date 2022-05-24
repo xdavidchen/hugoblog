@@ -10,6 +10,7 @@ menu:
         params:
             icon: user
 image: avatar-banner-2.jpg
+disableShare: true
 ---
 
 ## Welcome to David's blog
