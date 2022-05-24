@@ -166,6 +166,16 @@ params:
         content:
             enabled: true
 
+    shareButtons:
+        size: small
+        networks:
+            - facebook
+            - twitter
+            - email
+            - linkedin
+        icon: solid
+        buttonMargin: 0 0.5em 0 0
+
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
