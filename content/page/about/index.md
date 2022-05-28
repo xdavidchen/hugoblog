@@ -3,7 +3,7 @@ title: About
 description: welcome to David's blog!
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-04-15'
+lastmod: '2022-05-28'
 menu:
     main: 
         weight: -90
@@ -12,27 +12,28 @@ menu:
 image: avatar-banner-2.jpg
 disableShare: true
 ---
+Hello, 哈囉, Hallo! I'm David. I was born and grew up in Taiwan. I graduated as an English major. In life, I identify myself as an Ambivert.
 
-## Welcome to David's blog
+## What's this blog about?
 
-Hello, 哈囉, Hallo! I'm David. I was born and grew up in Taiwan. An English major. An Ambivert.
+I'm here to **remind you of various ways to enjoy your life**.
 
-My mission is to **inspire people to appreciate the uniqueness of the ordinary**. It's also why I started this blog at the beginning.
+Growing up, people around me are always comparing. Later I would learn all these comparison thing is a global phenomenon. It's just expressed through different ways and forms in different cultures.
 
-Growing up in Taiwan, people are surrounded by all kinds of comparisons. Despite there are culture differences between the East and the Western worlds, I learnt that this comparing thing is a global phenomenon. It's expressed through various ways and forms.
+***Get more and do better.*** That's the loudest voice in the world.
 
-***Get more and do better.*** That's what the world keeps telling us.
+Soon it becomes toxic if we don't realize that we ought to be grateful of the life we're currently living.
 
-Soon it becomes toxic without realizing how grateful we should be of the life we're currently living.
+**Pause, have a break, and look back.** This way, we are able to appreciate a lot more than just keep going.
 
 ## Some fun facts about me
-- I (kind of) like traveling, I've been to quite a few countries 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷. And I have tons of stories to share.
-- I'm trying to understand the computer world. Specifically front-end development at this stage. The main reason is that I work at a [software startup](https://giftpack.ai/). And people are geeks there.
-- I'm into design too. If you're into Graphic Design, Illustration, or Motion Graphics, share your work with me!
+- I enjoy traveling. I've been to 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷 🇩🇰 🇮🇹 🇨🇭. And I have tons of stories to share.
+- I'm a digital marketer at a [software startup](https://giftpack.ai/).
+- I love beatiful things. I love doing Videography, Photography, Graphic Design, Illustration, Motion Graphics work occationally.
 - I read a lot. I'll try to organize my thoughts and share them on this blog. They're going to be helpful I promise.
 
 ## If you want to reach out:
 
-I'm not a big fan of social media. But if you have to send me a message, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). 
+I'm not a big fan of social media. But if you really can't escape from it, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). 
 
-The preffered way for conneting would be email. Send me your thoughts, comments, and feedback here: [davidchen@xdavidchen.com](mailto:davidchen@xdavidchen.com)
+I would prefer that we connet via email. Send me your thoughts, comments, and feedback here: [davidchen@xdavidchen.com](mailto:davidchen@xdavidchen.com).
