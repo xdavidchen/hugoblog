@@ -17,4 +17,4 @@ When you perform a search, and you can't find the answer to your question, you g
 
 Change your search engine, and they will show you different results.\
 Go into niched forums, and you may even come across diamonds.\
-Take all the paths to every mine you can find. You will find the gold.
+Take all the paths to every mine you can find. You will get the gold.
