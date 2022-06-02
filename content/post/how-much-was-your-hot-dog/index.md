@@ -10,6 +10,6 @@ tags:
 categories:
   - photography
 ---
-![hot dog stand in time square](get-a-hot-dog-af-.jpg)
+![](get-a-hot-dog-af-.jpg)
 
 Get a hot dog at the same cart for $3.5, $4.5, $5, or $7. It depends. Not sure on what.
