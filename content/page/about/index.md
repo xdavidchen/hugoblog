@@ -28,7 +28,7 @@ Soon it becomes toxic if we don't realize that we ought to be grateful of the li
 
 ## Some fun facts about me
 - I enjoy traveling. I've been to 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷 🇩🇰 🇮🇹 🇨🇭. And I have tons of stories to share.
-- I'm a digital marketer at a [software startup](https://giftpack.ai/).
+- I'm a digital marketer at a software startup.
 - I love beatiful things. I love doing Videography, Photography, Graphic Design, Illustration, Motion Graphics work occationally.
 - I read a lot. I'll try to organize my thoughts and share them on this blog. They're going to be helpful I promise.
 
