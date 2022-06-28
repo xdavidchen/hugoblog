@@ -3,7 +3,7 @@ title: About
 description: welcome to David's blog!
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-05-28'
+lastmod: '2022-6-28'
 menu:
     main: 
         weight: -90
@@ -27,7 +27,7 @@ Soon it becomes toxic if we don't realize that we ought to be grateful of the li
 **Pause, have a break, and look back.** This way, we are able to appreciate a lot more than just keep going.
 
 ## Some fun facts about me
-- I enjoy traveling. I've been to 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷 🇩🇰 🇮🇹 🇨🇭. And I have tons of stories to share.
+- I enjoy traveling. I've been to 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷 🇩🇰 🇮🇹 🇨🇭 🇬🇧. And I have tons of stories to share.
 - I'm a digital marketer at a software startup.
 - I love beatiful things. I love doing Videography, Photography, Graphic Design, Illustration, Motion Graphics work occationally.
 - I read a lot. I'll try to organize my thoughts and share them on this blog. They're going to be helpful I promise.
@@ -36,4 +36,4 @@ Soon it becomes toxic if we don't realize that we ought to be grateful of the li
 
 I'm not a big fan of social media. But if you really can't escape from it, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). 
 
-I would prefer that we connet via email. Send me your thoughts, comments, and feedback here: [davidchen@xdavidchen.com](mailto:davidchen@xdavidchen.com).
+I would prefer that we connet via email. Send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
