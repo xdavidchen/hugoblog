@@ -12,7 +12,9 @@ tags = [
     "blogging",
     "creator",
 ]
-    
+
+draft = "true"
+
 +++
 
 As an introvert, the information I receive everyday is overwhelming. Among the overloaded information, only a fraction of them are inspiring - most of them are useless to me.
