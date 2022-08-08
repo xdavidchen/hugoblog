@@ -13,7 +13,7 @@ collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
     i18n:
-      sturcture: single_file
+      sturcture: multiple_files
       locales: [en, zh-tw]
     folder: "content/post" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
