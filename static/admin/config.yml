@@ -12,9 +12,6 @@ i18n:
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
-    i18n:
-      sturcture: single_file
-      locales: [en, zh-tw]
     folder: "content/post" # The path to the folder where the documents are stored
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
