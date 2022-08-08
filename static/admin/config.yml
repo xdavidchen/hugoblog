@@ -5,7 +5,7 @@ media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 i18n:
-  structure: multiple_files
+  structure: single_file
   locales: [en, zh-tw]
   default_locale: en
 
