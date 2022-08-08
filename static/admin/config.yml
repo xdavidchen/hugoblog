@@ -3,10 +3,16 @@ backend:
   branch: main
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
+i18n:
+  structure: multiple_files
+  locales: [en, zh-tw]
+  default_locale: en
 collections:
+  - name: i18n_content
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
     folder: "content/post" # The path to the folder where the documents are stored
+    i18n: true
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
