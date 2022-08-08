@@ -16,7 +16,7 @@ collections:
       sturcture: single_file
       locales: [en, zh-tw]
     folder: "content/post" # The path to the folder where the documents are stored
-    path: "{{slug}}/index"
+    path: "{{slug}}/index.{{locale}}.md"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection
