@@ -9,10 +9,10 @@ i18n:
   default_locale: en
 collections:
   - name: i18n_content
+    i18n: true
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
     folder: "content/post" # The path to the folder where the documents are stored
-    i18n: true
     path: "{{slug}}/index"
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
