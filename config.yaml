@@ -49,7 +49,7 @@ params:
 
     sidebar:
         emoji: ✨
-        subtitle: A Blog for Those Much Needed
+        subtitle: ordinary and unique
         avatar:
             enabled: true
             local: true
