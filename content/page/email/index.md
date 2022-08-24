@@ -11,19 +11,12 @@ menu:
 disableShare: true
 ---
 
-Hey friends,
+Hey friends,<br>
+If you enjoy reading my content and want to stay updated with me, consider joining my email list by typing in your name and email. <br> Not only you can share your thoughts with me just like you do with other people on social media, you'll also get my newsletter once in awhile to know my life updates.
 
-As you know, I'm not very consistent with social media.
-Even if you follow me and I follow you back, when Instagram goes bankrupt then our connection dies, too.
-
-Consider joining my email list by submitting your name and email. This is the best way for us to stay in touch.
-
-*You should receive 2 emails after you submit.
-
-*You might need to check your Spam or Trash folder to find the confirmation email and a welcome email.
-
-*Put me into your whitelist (or Contact) so that my future mails will go directly into your inbox.
-
-Alright that's it for now, see you there.
+Once you click subscribe, the following should happen:
+1. Receive a confirmation email (might be in your spam or trash folder) 
+2. After you've confirmed, you'll receive a welcome email (might still be in spam or trash folder)
+3. Put me into your contact (or whitelist) so the email never goes to spam / trash folder again.
 
 {{< form >}}
