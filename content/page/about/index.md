@@ -30,4 +30,4 @@ The only goal I want to achieve with this blog is to **have you inspired** when 
 
 ### Reach out to me
 I'm a ghost on social media. You can barely find me there. Let's keep in touch with email.<br>
-You can subscribe to my newsletter in [this page](/content/page/email/index.md) to get life updates. You are also welcome to send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
+You can subscribe to my newsletter in [this page](https://xdavidchen.com/email/) to get life updates. You are also welcome to send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
