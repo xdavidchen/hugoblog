@@ -5,7 +5,7 @@ date = "2022-04-19"
 slug = "surf-like-a-surfer"
 image = "surfer.jpeg"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [

@@ -4,7 +4,7 @@ title = "First Post of the Blog"
 date = "2021-08-23"
 image = "IMG_4152.JPG"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [

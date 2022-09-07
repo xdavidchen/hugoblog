@@ -6,7 +6,7 @@ tags:
   - mindset
   - internet
 categories:
-  - learning
+  - self-development
 ---
 Performing a search is similar to mining.\
 The information, the ultimate answer you're looking for is the gold.

@@ -5,7 +5,7 @@ date = "2022-04-13"
 slug = "learn-interpersonal-skills"
 image = "shakespear.jpeg"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [

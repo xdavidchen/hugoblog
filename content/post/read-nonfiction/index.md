@@ -5,7 +5,7 @@ date = "2022-04-14"
 image = "read.jpeg"
 slug = "guide-to-reading-non-fictions"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [

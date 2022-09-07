@@ -5,7 +5,7 @@ date = "2022-04-16"
 slug = "hardskills-can-wait"
 image = "skills.jpeg"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [

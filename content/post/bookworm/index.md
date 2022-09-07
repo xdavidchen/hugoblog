@@ -5,7 +5,7 @@ date = "2022-04-12"
 slug = "be-a-wise-bookworm"
 image = "book.jpeg"
 categories = [
-    "learning"
+    "self-development"
 ]
 
 tags = [
