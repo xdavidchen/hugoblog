@@ -49,7 +49,7 @@ params:
 
     sidebar:
         emoji: ✨
-        subtitle: life always gives you surprises
+        subtitle: life gives you surprises
         avatar:
             enabled: true
             local: true
