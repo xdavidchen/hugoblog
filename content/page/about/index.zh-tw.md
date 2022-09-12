@@ -13,7 +13,7 @@ image: avatar-banner-2.jpg
 disableShare: true
 ---
 
-2022 August 3rd 測試中
+2022 September 12th 測試中
 
 Hello, 哈囉, Hallo! I'm David. I was born and grew up in Taiwan. I graduated as an English major. In life, I identify myself as an Ambivert.
 
