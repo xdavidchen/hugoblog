@@ -9,7 +9,7 @@ menu:
         weight: -90
         params:
             icon: user
-image: avatar-banner-2.jpg
+image: avatar-banner.jpg
 disableShare: true
 ---
 ### About this blog
