@@ -60,7 +60,7 @@ params:
         toc: false
         readingTime: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -184,7 +184,7 @@ params:
             - email
             - linkedin
         icon: solid
-        buttonMargin: 0 0.5em 0 0
+        buttonMargin: 0 0.3em 0 0
 
 ### Custom menu
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
