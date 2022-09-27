@@ -11,6 +11,7 @@ menu:
             icon: user
 image: avatar-banner.jpg
 disableShare: true
+toc: false
 ---
 ### About this blog
 Honestly, the reason this blog exists is simple: I'm too lazy.
