@@ -1,6 +1,6 @@
 ---
-title: "Self-development"
-description: "Learning from life"
+title: "self-development"
+description: "learning from life"
 slug: "self-development"
 image: "self-development.jpg"
 ---
