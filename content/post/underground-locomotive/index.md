@@ -9,8 +9,7 @@ categories = []
 
 tags = [
     "travel",
-    "nyc",
-    "usa"
+    "nyc"
 ]
     
 +++
