@@ -3,7 +3,7 @@ title: About
 description: out of laziness...
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-8-24'
+lastmod: '2022-09-29'
 menu:
     main: 
         weight: -90
