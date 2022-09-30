@@ -7,6 +7,7 @@ local_backend: true #for local testing, run: npx netlify-cms-proxy-server
 i18n:
   structure: multiple_files #multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
   locales: [en, zh-tw] # Required - a list of locales to show in the editor UI
+  default_locale: en
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
@@ -15,7 +16,7 @@ collections:
     media_folder: "" # Save images in the post's own folder instead of the static folder
     public_folder: ""
     create: true # Allow users to create new documents in this collection
-    i18n: true
+    i18n: false
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Draft", name: "draft", widget: "boolean", required: false, i18n: true}
