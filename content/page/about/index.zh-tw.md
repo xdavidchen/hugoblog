@@ -1,9 +1,9 @@
 ---
 title: 關於
-description: welcome to David's blog!
+description: 我們怎麼會在這巧遇
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-6-28'
+lastmod: '2022-10-02'
 menu:
     main: 
         weight: -90
@@ -13,31 +13,38 @@ image: avatar-banner.jpg
 disableShare: true
 toc: false
 ---
+### 關於這個部落格
+跟著無名小站、即時通一起長大，看著科技公司統治了這個世界的過程，雖然曾經是社群媒體的重度使用者，最後卻只有感受到各種不必要的比較和內心滿滿的空虛，我發現科技的進步好像沒有帶給我更多純粹的樂趣、成長、或是珍貴的人際關係，所以我決定在 2022 年回歸最原本的內容創作形式 — 寫文章。
 
-2022 September 12th 測試中
+這個部落格有中文和英文兩個語言，因為我的腦袋在使用不同語言的時候是用不同的方式運作的。
 
-Hello, 哈囉, Hallo! I'm David. I was born and grew up in Taiwan. I graduated as an English major. In life, I identify myself as an Ambivert.
+在這個中文版的部落格，我分享了自己過去幾年在**世界各地旅遊、讀書、工作**的故事經歷。我會推薦一些我曾經去過的**景點、住過的地方、還有各種優惠**幫你在旅行時一起省錢，你也許也可以獲得自己適用的心態和小撇步。
 
-## What's this blog about?
+在英文版的部落格，我主要在分享關於身為一位創作者的生活和靈感，如果你剛好也有一定的英文閱讀能力，歡迎順便去那裡看看。
 
-I'm here to **remind you of various ways to enjoy your life**.
+> 永遠都會有另一個看待事物的方式 — 屬於你的方式。
 
-Growing up, people around me are always comparing. Later I would learn all these comparison thing is a global phenomenon. It's just expressed through different ways and forms in different cultures.
+### 關於我 - 又一個 David
+我不知道你在這生中聽過幾次 David 了，很抱歉你今天需要再多聽一次。
 
-***Get more and do better.*** That's the loudest voice in the world.
+#### 歐洲，初次見面
+這一切的故事都發生在疫情爆發後的沒多久。
 
-Soon it becomes toxic if we don't realize that we ought to be grateful of the life we're currently living.
+我在讀輔仁大學英文系的四年間，試著同時讀了兩個學士學位和一個學程，期間去德國讀英文系一年，最後雖然沒有成功，但也讓我有時間在歐洲各國踏上一人的旅程。
 
-**Pause, have a break, and look back.** This way, we are able to appreciate a lot more than just keep going.
+#### 沒有回程機票的旅程
+在讀國讀書的期間，我也固定的在一間新創公司遠距工作，一直到回台後沒多久，被公司派到美國出差，順便就在大學同學的住處待了三個月，接著又直接飛到歐洲住在高中同學的宿舍三個月，之後才回國。
 
-## Some fun facts about me
-- I enjoy traveling. I've been to 🇹🇼 🇯🇵 🇮🇩 🇺🇸 🇲🇴 🇰🇷 🇸🇬 🇦🇺 🇮🇳 🇩🇪 🇦🇹 🇭🇺 🇨🇿 🇳🇱 🇧🇪 🇱🇺 🇫🇷 🇩🇰 🇮🇹 🇨🇭 🇬🇧. And I have tons of stories to share.
-- I'm a digital marketer at a software startup.
-- I love beatiful things. I love doing Videography, Photography, Graphic Design, Illustration, Motion Graphics work occationally.
-- I read a lot. I'll try to organize my thoughts and share them on this blog. They're going to be helpful I promise.
+在這半年中，我當然也把握機會在美國和歐洲旅遊。會在國外待這麼久，而不是出差完就回台灣，都是因為回台灣要住兩個禮拜的隔離旅館，所以絞盡腦汁能待在外面越久越好，希望政策能修改到剪短隔離的時間。
 
-## If you want to reach out:
+#### 接下來的人生⋯⋯
+在我周遭的親友們好像的一致的認為我對於人生很有規劃，其實我越長大，越喜歡「走一步算一步」的策略，畢竟有很多事情不是光憑我就可以決定的，還需要有機運。
 
-I'm not a big fan of social media. But if you really can't escape from it, then here's [my Instagram account](https://www.instagram.com/x_david_chen/). 
+至少，現階段的想法就是在這個部落格分享我在旅遊時的所見所聞，幫你的生活增加一點樂趣和新知。
 
-I would prefer that we connet via email. Send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
+> 我想要透過這個部落格達成的唯一一個目標：激發你對人生的靈感。
+
+### 聯絡我
+如我所說，我已經沒有使用任何社交平台了，我們就用最「傳統」的方式 — 電子郵件聯絡吧！
+
+你可以到[這個頁面](https://xdavidchen.com/zh-tw/%E8%A8%82%E9%96%B1/)來訂閱部落格的電子報，這個部落格一有更新，你馬上就會知道。如果你有想法或是回饋想要告訴我，你也可以直接寄信到：[david@xdavidchen.com](mailto:david@xdavidchen.com)。
