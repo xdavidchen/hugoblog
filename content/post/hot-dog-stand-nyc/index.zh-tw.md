@@ -20,7 +20,9 @@ tags = [
 
 二月的紐約，白天溫度在攝氏十度左右，日落後的溫度驟降到零下是常態，偶爾突然來場暴風雪也沒在客氣，再加上這座城市靠海的關係，冷風總是吹的我頭痛。
 
-![冬天的紐約 photo by me](nyc-winter-1.jpg)![布魯克林橋下 photo by kevin](nyc-winter-2.jpg)![下大雪的中央公園 photo by me](nyc-winter-3.jpg)
+![冬天的紐約 photo by xdavidchen](nyc-winter-1.jpg)
+
+![布魯克林橋下 photo by Kevin Tzeng](nyc-winter-2.jpg) <!-- ![下大雪的中央公園 photo by me](nyc-winter-3.jpg) -->
 
 不過，這樣寒冷刺骨的天氣並不會澆熄旅客們的熱情。
 
@@ -28,7 +30,9 @@ tags = [
 
 而我，掐指一算的我，發現邊旅遊邊賺錢根本存不了錢的我，當然是要把握機會，從白天逛到晚上，不浪費在紐約旅遊的時光。
 
-![白天的時代廣場 photo by kevin](timesquare-1.jpg)![夜晚的時代廣場 photo by kevin](timesquare-2.jpg)![夜晚的時代廣場2 photo by kevin](timesquare-3.jpg)
+![白天的時代廣場 photo by Kevin Tzeng](timesquare-1.jpg)
+
+![夜晚的時代廣場 photo by Kevin Tzeng](timesquare-2.jpg) <!-- ![夜晚的時代廣場2 photo by kevin](timesquare-3.jpg) -->
 
 話雖如此，走著走著，腳酸了，還是會想找點東西填飽肚子，再繼續逛下去，尤其在夜晚最寒冷的時候，不補充一點熱量是很難在戶外待超過半小時的。
 
@@ -46,9 +50,11 @@ tags = [
 
 「一個麵包加一根熱狗要台幣 200 元？我是瘋了我才會買。」心中忿恨不平的我挨著肚子的餓決定踏上熱狗比價之路。
 
-![紐約街上隨處可見的熱狗攤 photo by me](hot-dog-stand-ny.jpg)![夜晚依舊熱鬧的時代廣場 photo by me](timesquare-4.jpg)
+![紐約街上隨處可見的熱狗攤 photo by xdavidchen](hot-dog-stand-ny.jpg)
 
-「太誇張好吃了！」
+<!-- ![夜晚依舊熱鬧的時代廣場 photo by me](timesquare-4.jpg) -->
+
+「<b>太誇張好吃了！</b>」
 
 又穿越了好幾個街區，經過了 5、6 間熱狗攤的比價，最後我用 $3.5 美金買到了一個平庸的熱狗堡。這不只是錢包的勝利，更是精神上的勝利。
 
