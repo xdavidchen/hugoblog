@@ -1,6 +1,5 @@
 ---
 title: Customer-centric Won't Get You Far (Enough)
-description: testing description
 date: 2022-05-31T21:29:01.722Z
 image: img_2452.jpg
 tags:
