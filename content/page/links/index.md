@@ -1,5 +1,6 @@
 ---
 title: Links
+description: Some great tools I use on a daily basis
 links:
   - title: Hugo
     description: The world's fastest framework for building websites
@@ -31,5 +32,3 @@ comments: false
 license: false
 disableShare: true
 ---
-
-Some great tools I use on a daily basis.

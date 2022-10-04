@@ -1,6 +1,7 @@
 +++
 author = "David Chen"
 title = "紐約熱狗堡絕對好吃的秘密"
+description = "為什麼每個人到紐約都吃了熱狗堡"
 date = "2022-10-03"
 slug = "紐約熱狗攤"
 image = "hot-dog-stand-ny.jpg"
