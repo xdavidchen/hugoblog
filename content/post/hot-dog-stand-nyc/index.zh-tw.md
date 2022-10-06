@@ -21,7 +21,7 @@ tags = [
 
 二月的紐約，白天溫度在攝氏十度左右，日落後的溫度驟降到零下是常態，偶爾突然來場暴風雪也沒在客氣，再加上這座城市靠海的關係，冷風總是吹得我頭痛。
 
-![冬天的紐約 photo by xdavidchen](nyc-winter-1.jpg)ㄋ
+![冬天的紐約 photo by xdavidchen](nyc-winter-1.jpg)
 
 ![布魯克林橋下 photo by Kevin Tzeng](nyc-winter-2.jpg) <!-- ![下大雪的中央公園 photo by me](nyc-winter-3.jpg) -->
 
