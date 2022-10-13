@@ -46,7 +46,7 @@ toc = false
 
 那是我吃下第一口 ShackBurger 的情景，在戶外對抗著冷颼颼的天氣，吃著散發熱氣和香氣的 Double ShackBurger，我獲得了身心靈的慰藉。
 
-![第一次吃到 Shake Shack！店內因為疫情沒有開放座位！](first-bite.jpg)
+![第一次吃到 Shake Shack！店內因為疫情沒有開放座位](first-bite.jpg)
 
 以下整理推薦我個人在東岸短短兩個月內，親自嚐鮮過的品項！
 
