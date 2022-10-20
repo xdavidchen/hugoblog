@@ -10,8 +10,7 @@ categories = [
 
 tags = [
     "mindset",
-    "internet",
-    "reflection"
+    "internet"
 ]
 +++
 
@@ -24,6 +23,6 @@ Going too deep and lights won't get in.<br>
 Don't be fooled by the magnificence. Don't dive too deep.
 
 Try your best to become a surfer. Observe like how a pro surfer does. Observe the waves. Enjoy the rides.<br>
-Ocasionally, go down to explore just for the sake of fun.
+Occasionally, go down to explore just for the sake of fun.
 
 Surf the *Internet* like a surfer.
