@@ -8,7 +8,7 @@ tags:
 categories:
   - business
 ---
-Taking a Coursera course about markeitng analytics, the lecturer emphasized on a concept at the very beginning: your business should be customer-centric.
+Taking a Coursera course about marketing analytics, the lecturer emphasized on a concept at the very beginning: your business should be customer-centric.
 
 Fair enough.
 
