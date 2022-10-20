@@ -1,7 +1,7 @@
 ---
-title: Find That Answer As If You're Mining
+title: As if you're mining
 date: 2022-06-01T20:30:51.300Z
-image: img_2684.jpg
+image: mining.jpg
 tags:
   - mindset
   - internet
