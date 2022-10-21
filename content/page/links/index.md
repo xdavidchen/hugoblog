@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Spnosors
 description: Some great tools I use on a daily basis
 links:
   - title: Hugo
@@ -26,9 +26,10 @@ menu:
     main: 
         weight: -70
         params:
-            icon: link
+            icon: heart
 
 comments: false
 license: false
 disableShare: true
+draft: true
 ---
