@@ -13,7 +13,7 @@ tags = [
 ]
     
 +++
-To get into your flow, you need to create and get into the zone.
+To get into your creative flow, you need to create and get into the zone.
 
 - Private or public?
 - Quiet or noisy?
