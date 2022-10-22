@@ -1,6 +1,6 @@
 ---
 title: About
-description: uniquness in you
+description: uniqueness in you
 date: '2022-02-03'
 license: CC BY-NC-ND
 lastmod: '2022-10-20'
