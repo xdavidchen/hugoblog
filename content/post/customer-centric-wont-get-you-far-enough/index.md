@@ -12,7 +12,7 @@ Taking a Coursera course about marketing analytics, the lecturer emphasized on a
 
 Fair enough.
 
-The time of products finding market-fit has passed. There are too many products and service out there already. Those who win customer's heart would win the game eventually. But it would not change any business whatsoever, if we just keep emphasizing on the importantce of being customer-centric.
+The time of products finding market-fit has passed. There are too many products and service out there already. Those who win customer's heart would win the game eventually. But it would not change any business whatsoever, if we just keep emphasizing on the importance of being customer-centric.
 
 When we tune our minds to think in terms of customer-centric, we start brainstorming on how we can solve customer's problems, with an end goal in mind. We would be able to switch our point of view. We would be looking at our own business from customer's perspective. And we would also be thinking, "What problems can I solve to *make a sale*?"
 

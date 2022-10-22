@@ -1,8 +1,8 @@
 +++
 author = "David Chen"
-title = "Hardskills can wait"
+title = "Hard skills can wait"
 date = "2022-04-16"
-slug = "hardskills-can-wait"
+slug = "hard-skills-can-wait"
 image = "skills.jpeg"
 categories = [
     "self-development",
@@ -16,10 +16,10 @@ tags = [
 ]
 +++
 
-Hardskills can wait.<br>
+Hard skills can wait.<br>
 Don't worry about acquiring one just yet.<br>
 It serves a purpose of telling people what you can do.
 
-Softskills require time.<br>
+Soft skills require time.<br>
 Stop hesitating and start **leading**.<br>
 It serves a purpose of telling people **who you are**.

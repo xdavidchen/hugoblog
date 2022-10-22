@@ -1,5 +1,5 @@
 ---
-title: Spnosors
+title: Sponsors
 description: Some great tools I use on a daily basis
 links:
   - title: Hugo

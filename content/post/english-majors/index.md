@@ -16,7 +16,7 @@ tags = [
 
 Dear English majors:
 
-Study literature and learn how weridly diverse cultures can be.<br>
+Study literature and learn how weirdly diverse cultures can be.<br>
 
 Study linguistics and apply speech of acts to your real life discourses.<br>
 
