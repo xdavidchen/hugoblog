@@ -9,7 +9,6 @@ categories = [
 ]
 
 tags = [
-    "creator",
     "blogging",
     "writing",
     "mindset"
