@@ -40,6 +40,9 @@
             img {
                 max-width: 65%;
                 height: auto;
+                width: auto; //added Oct. 23, 2022
+                max-height: 700px; //added Oct. 23, 2022
+                border-radius: 4px; //added border-radius Oct. 23, 2022
             }
         }
 
