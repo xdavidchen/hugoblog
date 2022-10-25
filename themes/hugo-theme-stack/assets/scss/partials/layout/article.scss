@@ -22,7 +22,7 @@
                 img {
                     height: auto;
                     width: 100%;
-                    max-height: 35vh; /* changed from 50 to 35 vh */
+                    max-height: 40vh; /* changed from 50 to 40 vh */
                     object-fit: cover;
                 }
             }
@@ -38,7 +38,7 @@
             color: var(--card-text-color-main);
 
             img {
-                max-width: 65%;
+                max-width: 95%;
                 height: auto;
                 width: auto; //added Oct. 23, 2022
                 max-height: 700px; //added Oct. 23, 2022
