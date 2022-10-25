@@ -3,7 +3,7 @@ author = "David Chen"
 title = "Dear English majors:"
 date = "2022-04-13"
 slug = "learn-interpersonal-skills"
-image = "shakespear.jpeg"
+image = "shakespeare.jpeg"
 categories = [
     "self-development"
 ]
