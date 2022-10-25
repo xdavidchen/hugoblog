@@ -1,7 +1,7 @@
 +++
 author = "David Chen"
 title = "IE (not the browser)"
-date = "2022-10-25"
+date = "2022-10-24"
 slug = "ie-not-the-browser"
 image = "368.jpg"
 categories = [
