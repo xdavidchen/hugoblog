@@ -5,7 +5,7 @@ date = "2022-10-26"
 slug = "rome-was-not-built-in-a-day"
 image = "italy.jpg"
 categories = [
-    "personal-development"
+    "self-development"
 ]
 
 tags = [
