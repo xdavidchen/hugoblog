@@ -23,8 +23,8 @@ The first day of a new habit is when we become extreme optimists. We naively bel
 
 You can't expect yourself to build a working system in a day.
 
-In reality, it is a long and iterative process.
-It is building a functioning system that is stable, efficient, and reliable.
+In reality, it is a long and iterative process.\
+It is building a functioning system that is stable, efficient, and reliable.\
 Once you build one, there will be detail left for you to improve and perfect – so called maintenance.
 
 Knowing all this, you're ready to put in the time and effort to build some good habits.
