@@ -43,4 +43,4 @@ Switching to Chinese, I share all the stories I've had while traveling around th
 ### Reach out to me
 I'm not active on any of the social media. Let's keep in touch with email. Shall we?
 
-You can subscribe to my newsletter in [this page](https://xdavidchen.com/email/) to get blog updates. You are also welcome to send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
+You can subscribe to my newsletter on [this page](https://xdavidchen.com/newsletter/) to get blog updates. You are also welcome to send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
