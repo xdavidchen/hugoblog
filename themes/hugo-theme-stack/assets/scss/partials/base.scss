@@ -17,6 +17,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+:lang(zh-tw) {
+    font-family: var(--zh-font-family);
+  }
+
 /* scrollbar styles for Firefox */
 * {
     scrollbar-width: auto;

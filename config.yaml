@@ -1,5 +1,5 @@
 baseurl: https://xdavidchen.com
-languageCode: en-us
+languageCode: en-us, zh-tw
 theme: hugo-theme-stack
 paginate: 10
 title: xdavidchen
@@ -7,10 +7,12 @@ title: xdavidchen
 languages:
     en:
         languageName: English
+        languageCode: en-us
         title: xdavidchen
         weight: 1
     zh-tw:
         languageName: 中文
+        languageCode: zh-tw
         title: xdavidchen
         weight: 2
 
