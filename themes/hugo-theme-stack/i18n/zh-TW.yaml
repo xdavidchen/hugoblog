@@ -20,6 +20,10 @@ article:
     readingTime:
         other: "閱讀時間: {{ .Count }} 分鐘"
 
+    shareButtons:
+        other: 分享這篇貼文
+
+
 notFound:
     title:
         other: 404 錯誤
