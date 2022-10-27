@@ -17,6 +17,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* for browser to change font from base font to zh font when website is zh-tw */
 :lang(zh-tw) {
     font-family: var(--zh-font-family);
   }
