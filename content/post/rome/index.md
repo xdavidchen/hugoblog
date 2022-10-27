@@ -15,11 +15,11 @@ tags = [
 ]
 +++
 
-In *Atomic Habit*, you will learn the compounding effects of habits.
+In *Atomic Habit*, you will learn the Compound Effect of habits.
 
 Anyone who has just finished reading the book would be prompt to start good habits.
 
-The first day of a new habit is when we become extreme optimists. We naively believe that we could built it within a day, or 21-day the longest it takes — the pitfall we fall into.
+The first day of a new habit is when we become extreme optimists. We naively believe that we could build it within a day, or 21-day the longest it takes — the pitfall we fall into.
 
 You can't expect yourself to build a working system in a day.
 
