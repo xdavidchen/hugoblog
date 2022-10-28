@@ -1,6 +1,6 @@
 .container {
-    margin-left: auto; // Changed from auto to
-    margin-right: auto; // Changed from auto to
+    margin-left: auto;
+    margin-right: auto;
 
     .left-sidebar {
         max-width: var(--left-sidebar-max-width);
@@ -18,7 +18,7 @@
     &.extended {
         @include respond(md) {
             max-width: 768px;
-            --left-sidebar-max-width: 20%;
+            --left-sidebar-max-width: 25%;
             --right-sidebar-max-width: 22%;
         }
 
