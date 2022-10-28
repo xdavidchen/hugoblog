@@ -13,14 +13,10 @@ tags = [
     "english-major"
 ]
 +++
-
-Dear English majors:
-
-Study literature and learn how weirdly diverse cultures can be.<br>
-
+Study literature and learn how weirdly diverse cultures can be.\
 Study linguistics and apply speech of acts to your real life discourses.<br>
 
-Study thinking.<br>
+Study thinking.\
 Think critically. Think creatively. Think with clarity.
 
-Interpersonal skills are the foundation of a successful business.
+Interpersonal skills are the foundation of a successful life.

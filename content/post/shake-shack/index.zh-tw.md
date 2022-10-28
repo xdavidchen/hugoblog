@@ -30,7 +30,7 @@ toc = false
 
 這間超熱門的速食店在紐約市發跡，在美國東部有數不清的分店，中部只有零星的幾間，到了西部更可說是寥寥無幾。
 
-![Shake Shack 店面 | photo from Unsplash](store.jpg)
+![點餐櫃檯 | photo by Kevin](shake-shack-kevin.jpg)
 
 雖然近年 Shake Shack 快速的開拓市場到世界多國，甚至一度傳出要在台北信義區設點的風聲（可惜最後不了了之），但紐約市畢竟還是它發跡的地方，就像麥當勞在世界各地的口味都不一樣，只有紐約才能吃到最純正的 Shake Shack 漢堡。
 
@@ -71,7 +71,7 @@ toc = false
 
 當然，如果你像我一樣不吃番茄，你可以請店員幫你特製沒有番茄的漢堡。如果你是有充裕預算的人，非常建議你直接點雙層肉的 Double ShackBurger！警告：吃了就回不去了。
 
-![招牌漢堡 ShackBurger | photo from Unsplash](shack-burger.jpg)
+![招牌漢堡 ShackBurger | photo by Kevin](shack-burger-kevin.jpg)
 
 一口咬下去 — 是派對，食材在嘴巴裡開派對。
 
