@@ -2,7 +2,7 @@
 author = "David Chen"
 title = "A guide to reading non-fictions"
 date = "2022-04-14"
-image = "read.jpeg"
+image = "bookstore.jpg"
 slug = "guide-to-reading-non-fictions"
 categories = [
     "self-development"

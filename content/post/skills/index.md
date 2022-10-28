@@ -3,7 +3,7 @@ author = "David Chen"
 title = "Hard skills can wait"
 date = "2022-04-16"
 slug = "hard-skills-can-wait"
-image = "skills.jpeg"
+image = "hard-skills.jpg"
 categories = [
     "self-development",
     "business"

@@ -3,7 +3,7 @@ author = "David Chen"
 title = "Be a wise bookworm"
 date = "2022-04-12"
 slug = "be-a-wise-bookworm"
-image = "book.jpeg"
+image = "books.jpg"
 categories = [
     "self-development"
 ]

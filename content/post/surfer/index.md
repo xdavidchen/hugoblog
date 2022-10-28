@@ -3,7 +3,7 @@ author = "David Chen"
 title = "Surf like a surfer"
 date = "2022-04-19"
 slug = "surf-like-a-surfer"
-image = "surfer.jpeg"
+image = "surf.jpg"
 categories = [
     "self-development"
 ]

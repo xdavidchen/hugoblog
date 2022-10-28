@@ -3,7 +3,7 @@ author = "David Chen"
 title = "Do it again for somebody's sake"
 date = "2022-04-15"
 slug = "do-it-again-for-somebody"
-image = "cafe.jpeg"
+image = "car.jpg"
 categories = [
     "creator"
 ]
