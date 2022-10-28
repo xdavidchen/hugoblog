@@ -21,7 +21,7 @@ To prevent your human brain CPU from overheating, treat your computer the same w
 
 The next time you do your work at a café, library, or office, leave the laptop charger at home to avoid burnout.\
 It optimizes your work quality in two ways:
-- It forces you to be focus at work.
-- It sets a limitation of your working hours.
+- It forces you to be focused at work.
+- It sets a limit on working hours.
 
 A "killing two birds with one stone" solution.
