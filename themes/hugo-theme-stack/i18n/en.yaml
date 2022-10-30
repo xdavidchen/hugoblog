@@ -34,7 +34,7 @@ article:
         other: "{{ .Count }} minute read"
     
     shareButtons:
-        other: share the post
+        other: share this
 
 notFound:
     title:
