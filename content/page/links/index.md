@@ -1,11 +1,7 @@
 ---
-title: Sponsors
-description: Some great tools I use on a daily basis
+title: Tools
+description: Some great tools I use on a daily basis. *may include affiliate links
 links:
-  - title: Hugo
-    description: The world's fastest framework for building websites
-    website: https://gohugo.io/
-    image: https://gitlab.com/uploads/-/system/project/avatar/912096/hugo.png
   - title: Brave
     description: Secure, Fast & Private Web Browser with Adblocker
     website: https://brave.com/
@@ -24,7 +20,7 @@ links:
     image: https://raw.githubusercontent.com/Zettlr/Zettlr/master/resources/icons/png/512x512.png
 menu:
     main: 
-        weight: -70
+        weight: -55
         params:
             icon: heart
 
