@@ -42,7 +42,7 @@ toc = false
 
 ---
 
-如果你還不知道的話，紐約的冬天冷的要命，就算天空貌似晴朗，海風也會因為高樓密集而沒地方鑽，就這樣瑟瑟的吹在身上，走在路上總是寒風刺骨，沒有一天是例外。
+如果你還不知道的話，紐約的冬天常常冷的要命，就算天空貌似晴朗，海風也會因為高樓密集而沒地方鑽，就這樣瑟瑟的吹在身上，走在路上總是寒風刺骨，沒有一天是例外。
 
 那是我吃下第一口 ShackBurger 的情景，在戶外對抗著冷颼颼的天氣，吃著散發熱氣和香氣的 Double ShackBurger，我獲得了身心靈的慰藉。
 
@@ -50,17 +50,17 @@ toc = false
 
 以下整理推薦我個人在東岸短短兩個月內，親自嚐鮮過的品項！
 
-### Shake Shack NYC 菜單 2022 年版[^1]
+### Shake Shack NYC 菜單[^1]
 
 | 品項                   | 大小         | 價格（美元） |
 | ---------------------- | ------------ | ------------ |
-| ShackBurger 牛肉吉事堡 | Single 單層  | $5.13        |
+| ShackBurger 牛肉吉事堡 | Single 單層  | $5.18        |
 |                        | Double 雙層  | $7.93        |
-| Fries 薯條             |              | $2.93        |
-|                        |              | $3.91        |
+| Fries 薯條             | Regular 一般             | $2.93        |
+|                        | Cheese 加起司             | $3.91        |
 | Fifty-fifty 檸檬汁＋冰茶           | Regular 一般 | $2.50        |
 |                        | Large 大杯   | $3.23        |
-| Shakes 奶昔            |              | $5.18        |
+| Shakes 奶昔            |  One-size 單一大小            | $5.18        |
 *註： 實際價格以各地區店家標示為主*
 
 ### ShackBurger 牛肉吉事堡
@@ -128,4 +128,4 @@ Shake Shack 的奶昔有很多種口味，我試過的有：
 
 什麼？要怎麼戒掉 Shake Shack？去倫敦一趟吃那裡的 Shake Shack 吧！（敬請期待）
 
-[^1]: [ShakeShack NYC 菜單價格參考網站](https://www.fastfoodmenuprices.com/shake-shack-prices/)
+[^1]: [ShakeShack NYC 菜單 2022年版價格參考網站](https://www.fastfoodmenuprices.com/shake-shack-prices/)
