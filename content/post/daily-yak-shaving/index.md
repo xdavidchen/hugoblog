@@ -1,6 +1,6 @@
 ---
 author: David Chen
-title: "Daily Yak Shaving"
+title: "Daily yak shaving"
 date: 2022-11-04T23:54:42+08:00
 slug: "daily-yak-shaving"
 image: yak-shaving.jpg
