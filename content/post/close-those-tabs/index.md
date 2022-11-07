@@ -26,7 +26,7 @@ This habit has helped me select the information effectively, and let me sleep we
 
 This is a distinction between **having and not having a focus** when consuming information.\
 When you open up multiple tabs in the browser trying to find information, there's a high chance you'll feel lost and overwhelmed by the amount of information you need to go through.\
-If you can practice focusing on one task, solving one problem at a time, you'll find yourself quitting the browser more often than everyday before night.\
+If you can practice focusing on one task, solving one problem at a time, you'll find yourself quitting the browser more often than everyday before you sleep.\
 In fact, your browser would remain inactive most of the time, if you do it right.
 
 It's about getting things done.\
