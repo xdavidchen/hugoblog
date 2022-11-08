@@ -19,8 +19,7 @@ Publicly showing your work when [it's not the right time](https://xdavidchen.com
 Show your work, when it meets the following criteria:
 1. You don't feel embarrassed about it **now**.\
 How to know you don't feel embarrassed? Easy.\
-You are **proud** of it. You feel the **urge** to share.
-
+You are **proud** of it. You feel the **urge** to share.\
 We will always be embarrassed by our past works in the future.\
 We ought to. This proves we're learning and growing, or just moving on in some ways.
 
