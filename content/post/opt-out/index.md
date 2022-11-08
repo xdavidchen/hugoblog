@@ -5,7 +5,7 @@ date: 2022-11-06T23:22:47+08:00
 slug: "opt-out"
 image: opt-out.jpg
 categories:
-  - personal-development
+  - self-development
   - creator
 tags:
   - work
