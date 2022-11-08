@@ -1,6 +1,6 @@
 ---
 author: David Chen
-title: "To do, or not to do"
+title: "To do, or not to do?"
 date: 2022-11-08T21:10:09+08:00
 slug: "to-do-or-not-to-do"
 image: to-do.png
