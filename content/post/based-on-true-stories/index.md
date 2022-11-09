@@ -18,7 +18,7 @@ Common questions from the inner voice as a creator.
 
 In college, we could have used some scientific research to prove our arguments.
 
-What about in life? Is there a way to prove our thoughts are correct? What if we don't know what we're talking about? What if we were only *impostors*?
+What about in life? Is there a way to prove our thoughts to be correct? What if we don't know what we're talking about? What if we were only *impostors*?
 
 **Be you**. People can tell whether you're being truthful.
 
