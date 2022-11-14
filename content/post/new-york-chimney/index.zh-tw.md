@@ -35,7 +35,7 @@ tags:
 也許是受到紐約地鐵的影響，在我腦海中，這些煙囪更像紐約專屬的「地底蒸汽火車」。
 
 <div class = "video-wrapper">
-  <video autoplay="autoplay" loop src="new_york_chimney.mp4"></video>
+  <video autoplay="autoplay" loop playsinline src="new_york_chimney.mp4"></video>
 </div>
 
 關於紐約大煙囪為何存在眾說紛紜，但我壓根沒打算了解背後的成因和化學原理。我才不管它到底是什麼、又是為了什麼目的矗立在那。\
