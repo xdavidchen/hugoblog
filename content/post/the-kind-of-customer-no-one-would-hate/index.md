@@ -15,3 +15,7 @@ You don’t want to be a hard-to-please customer.\
 You don’t want to be an easily pleased customer.
 
 Be *properly* pleased.
+
+<div class = "video-wrapper">
+  <video autoplay="autoplay" loop src="new_york_chimney.mp4"></video>
+</div>
