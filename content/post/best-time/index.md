@@ -29,5 +29,3 @@ If you're not fine with who you currently are, or don't feel good about your wor
 Change what you don't like about you and your work.
 
 Until then, **the best time isn't now**.
-
-<!-- testing -->
