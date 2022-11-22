@@ -11,7 +11,7 @@ categories = [
 
 tags = [
     "mindset",
-    "english-major"
+    "english-major",
     "skill"
 ]
 +++
