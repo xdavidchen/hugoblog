@@ -6,7 +6,7 @@ license: CC BY-NC-ND
 lastmod: '2022-10-28'
 menu:
     main: 
-        weight: -90
+        weight: -95
         params:
             icon: user
 image: avatar-banner.jpg

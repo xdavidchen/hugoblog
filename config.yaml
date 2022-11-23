@@ -201,7 +201,17 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: []
-    
+
+menu:
+    main:
+        - identifier: portfolio
+          name: Portfolio
+          url: https://portfolio.xdavidchen.com/tags/shotoniphone/
+          weight: -90
+          params:
+            icon: lightning
+            newTab: true
+
     #social:
         #- identifier: github
         #  name: GitHub

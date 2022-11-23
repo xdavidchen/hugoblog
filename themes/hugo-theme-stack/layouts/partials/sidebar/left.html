@@ -68,7 +68,7 @@
                 {{ with $icon }}
                     {{ partial "helper/icon" . }}
                 {{ end }}
-                <span>{{- .Name -}}</span>
+                <span>{{ i18n .Identifier | default .Name}}</span>
             </a>
         </li>
         {{ end }}

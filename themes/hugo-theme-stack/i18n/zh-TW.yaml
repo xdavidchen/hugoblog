@@ -51,3 +51,6 @@ search:
 
     resultTitle:
         other: "#PAGES_COUNT 個結果 （用時 #TIME_SECONDS 秒）"
+
+portfolio:
+    other: 作品集
