@@ -13,7 +13,7 @@ languages:
         params:
             sidebar:
                 emoji: 🇹🇼
-                subtitle: for every creative mind
+                subtitle: "#ForCreativeFreedom"
                 avatar:
                     enabled: true
                     local: true
