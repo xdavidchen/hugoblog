@@ -1,6 +1,6 @@
 ---
 author: David Chen
-title: "Life Isn't a Marathon"
+title: "Life isn't a marathon"
 date: 2022-11-23T15:14:32+08:00
 slug: "life-is-not-a-marathon"
 image: marathon.jpg
