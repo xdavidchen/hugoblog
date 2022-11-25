@@ -2,6 +2,7 @@
     &.sticky {
         @include respond(md) {
             position: sticky;
+            padding: 35px 15px;
         }
     }
 }
@@ -33,7 +34,6 @@
 
     &.sticky {
         top: 0;
-        padding: 35px 15px;
         
     }
 }
