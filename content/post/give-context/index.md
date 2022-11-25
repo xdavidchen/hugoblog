@@ -13,10 +13,10 @@ tags:
 ---
 Context is a the key in effective communication.
 
-Sometimes it is a reason that supports a decision.
-Sometimes it is detail behind a situation.
-Sometimes it is a scenario about a problem.
+Sometimes it is a reason that supports a decision.\
+Sometimes it is detail behind a situation.\
+Sometimes it is a scenario about a problem.\
 
-Give the context in one or multiple paragraph(s), sentence(s), or word(s).
-Give just enough.
+Give the context in one or multiple paragraph(s), sentence(s), or word(s).\
+Give just enough.\
 You know what is enough when you think with empathy.
