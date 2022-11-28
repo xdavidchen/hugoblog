@@ -12,7 +12,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                emoji: 🇹🇼
+                emoji: 📃
                 subtitle: "#ForCreativeFreedom"
                 avatar:
                     enabled: true
