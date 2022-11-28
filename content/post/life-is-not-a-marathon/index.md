@@ -15,7 +15,7 @@ tags:
 ---
 Anyone who thinks life is like a marathon is crazy. That fool has neither wisdom nor honesty.
 
-In a marathon, you only rest at the end. Since you are being chased by time, you are either running or walking. You **must** be moving. If you don't, you're out.
+In a marathon, you only rest at the end. Since you are being chased by time, you are either running or walking. You **must** be moving. If you're not moving, you're out.
 
 In a marathon, **you are always exhausted**.
 

@@ -11,7 +11,7 @@ tags:
   - communication
   - empathy
 ---
-Context is a the key in effective communication.
+Context is the key in effective communication.
 
 Sometimes it is a reason that supports a decision.\
 Sometimes it is detail behind a situation.\
