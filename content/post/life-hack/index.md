@@ -5,12 +5,14 @@ date = "2022-10-20"
 slug = "life-hack"
 image = "life-hack.jpg"
 categories = [
-    "self-development"
+    "self-development",
+    "creator"
 ]
 
 tags = [
     "environment",
-    "mindset"
+    "mindset",
+    "idea"
 ]
     
 +++

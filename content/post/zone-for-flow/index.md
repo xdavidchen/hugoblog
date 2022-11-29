@@ -9,7 +9,8 @@ categories = [
 ]
 
 tags = [
-    "environment"
+    "environment",
+    "idea"
 ]
     
 +++
