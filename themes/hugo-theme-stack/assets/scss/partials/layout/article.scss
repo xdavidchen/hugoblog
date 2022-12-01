@@ -40,12 +40,11 @@
             color: var(--card-text-color-main);
 
             img {
-                max-width: 95%;
+                max-width: 80%;
                 height: auto;
                 width: auto; //added Oct. 23, 2022
                 max-height: 700px; //added Oct. 23, 2022
-                border-radius: 4px; //added border-radius Oct. 23, 2022
-                padding-top: 40px;
+                padding-top: 20px;
             }
         }
 
@@ -321,6 +320,7 @@
         figcaption {
             font-size: 1.4rem;
             color: var(--card-text-color-secondary);
+            padding-bottom: 40px;
         }
     }
 
@@ -418,7 +418,7 @@
 
     .video-wrapper {
         position: relative;
-        width: 100%;
+        width: 80%;
         height: 0;
         padding-bottom: 56.25%;
         overflow: hidden;
@@ -431,6 +431,7 @@
             left: 0;
             top: 0;
             border: 0;
+            padding: 40px 0;
         }
     }
 
