@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
 .article-page {
     &.hide-sidebar-sm .left-sidebar {
         display: none;
@@ -284,21 +282,6 @@
 
     & > p {
         margin: 1.5em 0;
-        font-family: 'PT Serif', serif;
-        font-weight: 500;
-        position: relative;
-        top: 2px;
-    }
-
-    :lang(zh-tw) {
-        font-family: 'Noto Serif TC', serif;
-        h1,
-        h2,
-        h3,
-        h4,
-        strong {
-            font-weight: bold;
-        }
     }
 
     h1,
@@ -310,11 +293,6 @@
         margin-left: calc((var(--card-padding)) * -1);
         padding-left: calc(var(--card-padding) - var(--heading-border-size));
         border-left: var(--heading-border-size) solid var(--accent-color);
-    }
-
-    li {
-        font-family: 'PT Serif', serif;
-        font-weight: 500;
     }
 
     figure {
