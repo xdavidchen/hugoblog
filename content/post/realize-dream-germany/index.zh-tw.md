@@ -1,7 +1,7 @@
 ---
 author: David Chen
 title: "出發德國圓一個留學夢"
-description: "秋・2020 — 留學德國"
+description: "秋 ・ 2020 — 留學德國"
 date: 2022-12-08T15:50:19+08:00
 slug: "出發德國圓一個留學夢"
 image: in-sky.jpg
