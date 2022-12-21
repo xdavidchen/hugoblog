@@ -3,7 +3,7 @@ title: About
 description: blog, inspirations, and you
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-12-05'
+lastmod: '2022-12-21'
 menu:
     main: 
         weight: -90
@@ -13,7 +13,10 @@ image: avatar-banner.jpg
 disableShare: true
 toc: false
 ---
-### About this blog
+
+Updating⋯⋯
+
+<!-- ### About this blog
 On this blog, I share little inspirations from life.
 
 These posts are categorized under **self-development**, **creator**, and **business**.
@@ -39,3 +42,4 @@ I'm not active on any of the social media. Let's keep in touch with email. Shall
 Sign up for my newsletter on [this page](https://xdavidchen.com/newsletter/) to get blog updates.
 
 Send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
+-->

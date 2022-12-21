@@ -12,7 +12,7 @@ languages:
         weight: 1
         params:
             sidebar:
-                emoji: ＊
+                emoji: 🇹🇼
                 subtitle: "writer / photographer"
                 avatar:
                     enabled: true
@@ -25,7 +25,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                emoji: ＊
+                emoji: 🇹🇼
                 subtitle: 外國旅行｜留學｜工作
                 avatar:
                     enabled: true

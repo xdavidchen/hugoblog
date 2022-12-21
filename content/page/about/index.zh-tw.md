@@ -3,7 +3,7 @@ title: 關於
 description: 部落格、故事、和你
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-12-02'
+lastmod: '2022-12-21'
 menu:
     main: 
         weight: -95
@@ -13,7 +13,10 @@ image: avatar-banner.jpg
 disableShare: true
 toc: false
 ---
-### 關於這個部落格
+
+更新中⋯⋯
+
+<!-- ### 關於這個部落格
 跟著無名小站、即時通一起長大，看著科技公司統治了這個世界的過程，雖然曾經是社群媒體的重度使用者，最後卻只有感受到各種不必要的比較和內心滿滿的空虛。
 
 我發現科技的進步好像沒有帶給我更多純粹的樂趣、成長、或是珍貴的人際關係，所以我決定在 2022 年回歸最原本的內容創作形式 — 寫文章。
@@ -52,3 +55,4 @@ toc: false
 你可以到[這個頁面](https://xdavidchen.com/zh-tw/%E8%A8%82%E9%96%B1/)來訂閱部落格的電子報，部落格一有更新，你馬上就會知道。
 
 如果你有想法或是回饋想要告訴我，你也可以直接寄信到：[david@xdavidchen.com](mailto:david@xdavidchen.com)。
+-->
