@@ -1,5 +1,5 @@
 ---
-title: 訂閱
+title: 追蹤
 description: 和我保持聯繫 🚀
 date: '2022-08-24'
 license: CC BY-NC-ND
@@ -11,6 +11,6 @@ menu:
 disableShare: true
 ---
 
-輸入你的名字和電郵，訂閱部落格的電子報！
+輸入你的名字和電郵取得部落格的電子報！
 
 {{< form-tw >}}

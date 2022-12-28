@@ -21,12 +21,12 @@ languages:
     zh-tw:
         languageName: 中文
         languageCode: zh-tw
-        title: 大衛 | xdavidchen
+        title: 茶米 | xdavidchen
         weight: 2
         params:
             sidebar:
                 emoji: 🇹🇼
-                subtitle: 外國旅行｜留學｜工作
+                subtitle: writer / photographer
                 avatar:
                     enabled: true
                     local: true

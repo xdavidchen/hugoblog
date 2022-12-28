@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Follow
 description: let's stay connected
 date: '2022-03-28'
 license: CC BY-NC-ND
