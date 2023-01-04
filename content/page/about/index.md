@@ -1,9 +1,9 @@
 ---
 title: About
-description: blog, inspirations, and you
+description: 
 date: '2022-02-03'
 license: CC BY-NC-ND
-lastmod: '2022-12-21'
+lastmod: '2023-01-04'
 menu:
     main: 
         weight: -90
@@ -14,32 +14,17 @@ disableShare: true
 toc: false
 ---
 
-Updating⋯⋯
+Hi, I’m David Chen. On this website, I share things I love here, projects I’m working on, and how-tos guides. Topics range from lifestyle, business, design, photography, to simply my personal life.
 
-<!-- ### About this blog
-On this blog, I share little inspirations from life.
+Call this a personal website, a lifestyle blog, or my social media. It’s a space where I enjoy the purity of sharing.
 
-These posts are categorized under **self-development**, **creator**, and **business**.
+I live a simple yet meaningful life. I invite you to follow this journey and hope you’ll have some takeaways here and there along with it.
 
->There's always another way to look at things — your way.
+If you know someone who would benefit from what I share, please feel free to spread the words.
 
-### About me
-Originally from Taiwan, I spent my last year of college in Germany for a second bachelor's degree, which I failed to get. But I took the chance to solo-travel around Europe. The experience is what gave me the courage to share, and where a big part of my creative inspiration comes from.
+To get updates, sign up for the blog newsletters, follow this social media, or subscribe by using RSS… you get the idea, they’re essentially the same thing.
 
-Professionally, I work remotely as a Digital Marketer at a software startup. This job gives me the chance to live a nomadic lifestyle. It's been fun and chaotic. I'd also love to share my personal tips on how you can work and travel the same time.
+Connect with me here ↓
+{{< form >}}
 
-I create content in both English and Traditional Chinese because my brain works differently when I use different languages.
-
-On this English blog, you'll be inspired to start thinking creatively.
-
->The only goal I want to achieve with this blog is you thinking "**I've never thought of this that way!**"
-
-For Chinese content, I share my personal stories and reflection traveling around the world. So if you happen to be a bilingual in these two languages, you're in luck! You get to know both sides of me!
-
-### Reach out to me
-I'm not active on any of the social media. Let's keep in touch with email. Shall we?
-
-Sign up for my newsletter on [this page](https://xdavidchen.com/newsletter/) to get blog updates.
-
-Send me your thoughts, comments, and feedback here: [david@xdavidchen.com](mailto:david@xdavidchen.com).
--->
+Send me your thoughts, comments, and feedback to: [david@xdavidchen.com](mailto:david@xdavidchen.com).
