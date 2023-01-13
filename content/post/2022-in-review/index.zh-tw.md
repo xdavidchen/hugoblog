@@ -54,7 +54,7 @@ Seth Godin 曾寫道：“如果你不知道你擁有它……那麼你就沒有
 
 我花了一年多的時間來建立你正在閱讀的這個網站。無數個沒有睡覺的夜晚，無止境的學習、研究、和挫折，都是為了這一切。
 
-我要感謝 [Wiwi](https://nicechord.com/) 在 podcast 上提到這個部落格主題，還有 [Jimmy](https://jimmycai.com/) 作為這個[部落格主題](https //github.com/CaiJimmy/hugo-theme-stack)的開發者。沒有他們，我仍然會在使用 Wordpress，並且永遠都沒辦法用它們慢到不行的內容管理系統發佈文章。
+我要感謝 [Wiwi](https://nicechord.com/) 在 podcast 上提到這個部落格主題，還有 [Jimmy](https://jimmycai.com/) 作為這個[部落格主題](https://github.com/CaiJimmy/hugo-theme-stack)的開發者。沒有他們，我仍然會在使用 Wordpress，並且永遠都沒辦法用它們慢到不行的內容管理系統發佈文章。
 
 我也很開心有將近 50 個人願意通過[註冊電子郵件](https://xdavidchen.com/zh-tw/%E8%BF%BD%E8%B9%A4/)與我聯繫。我知道我去年不是非常活躍，我保證今年你們會從我這裡得到更多更新，謝謝你們的支持！
 
