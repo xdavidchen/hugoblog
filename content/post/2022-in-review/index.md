@@ -6,7 +6,7 @@ date: 2023-01-13T12:06:58+08:00
 slug: "2022-in-review"
 image: IMG_3115.jpg
 categories:
-  - personal-development
+  - self-development
 tags:
   - review
 toc: false
