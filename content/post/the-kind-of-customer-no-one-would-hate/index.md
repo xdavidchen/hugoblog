@@ -3,7 +3,7 @@ author: David Chen
 title: "The kind of customer no one would hate"
 date: 2022-11-10T23:13:39+08:00
 slug: "the-kind-of-customer-no-one-would-hate"
-image: kind-of-customer.jpg
+image:
 categories:
   - business
   - self-development
