@@ -57,7 +57,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 /* custom fonts added on Oct. 26, 2022*/
 
-@font-face {
+/** @font-face {
     font-family: "TaipeiSansTCBeta-Regular";
     src: url(/static/fonts/TaipeiSansTCBeta-Regular.woff);
 }
@@ -71,12 +71,14 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     font-family: "TaipeiSansTCBeta-Bold";
     src: url(/static/fonts/TaipeiSansTCBeta-Bold.woff);
 }
+*/
 
 :root {
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "TaipeiSansTCBeta-Regular", "PingFang TC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
 
     --base-font-family: "Helvetica Neue", "Lato", var(--sys-font-family), var(--zh-font-family), sans-serif;
+    --serif-font-family: "serif";
     --code-font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 

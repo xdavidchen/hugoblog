@@ -275,7 +275,7 @@
 }
 
 .article-content {
-    font-family: var(--article-font-family);
+    font-family: var(--serif-font-family);
     font-size: var(--article-font-size);
     padding: 0 var(--card-padding);
     line-height: var(--article-line-height);
@@ -290,6 +290,7 @@
     h4,
     h5,
     h6 {
+        font-family: var(--base-font-family);
         margin-left: calc((var(--card-padding)) * -1);
         padding-left: calc(var(--card-padding) - var(--heading-border-size));
         border-left: var(--heading-border-size) solid var(--accent-color);
