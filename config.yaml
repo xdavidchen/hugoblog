@@ -8,29 +8,29 @@ languages:
     en:
         languageName: English
         languageCode: en-us
-        title: xdavidchen
+        title: David Chen
         weight: 1
         params:
             sidebar:
                 emoji: 🇹🇼
-                subtitle: "writer / photographer"
+                subtitle: "for creative minds"
                 avatar:
                     enabled: true
                     local: true
                     src: img/avatar.jpg
-    zh-tw:
-        languageName: 中文
-        languageCode: zh-tw
-        title: 茶米 | xdavidchen
-        weight: 2
-        params:
-            sidebar:
-                emoji: 🇹🇼
-                subtitle: writer / photographer
-                avatar:
-                    enabled: true
-                    local: true
-                    src: img/avatar.jpg
+    #zh-tw:
+        #languageName: 中文
+        #languageCode: zh-tw
+        #title: 茶米 | xdavidchen
+        #weight: 2
+        #params:
+            #sidebar:
+                #emoji: 🇹🇼
+                #subtitle: writer / photographer
+                #avatar:
+                    #enabled: true
+                    #local: true
+                    #src: img/avatar.jpg
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
