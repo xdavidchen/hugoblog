@@ -10,7 +10,7 @@ tags:
   - attention
   - present
 ---
-Richard Feynman was a Nobel-prizewinning US theoretical physicist in the 20th centuries. A few days ago while I was doing my daily random scrolling on Hacker News, his named popped up with the quote, “Knowledge isn’t free. You have to pay attention.”
+Richard Feynman was a Nobel-prizewinning US theoretical physicist in the 20th centuries. A few days ago while I was doing my daily random scrolling on Hacker News, his name popped up with the quote, “Knowledge isn’t free. You have to pay attention.”
 
 I love this quote.
 
