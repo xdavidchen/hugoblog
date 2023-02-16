@@ -12,7 +12,7 @@ tags:
 
 When it comes to goal setting, reverse engineering has become my second nature during the planning process.
 
-The best part about reverse engineering a goal is having a very clear path about how to get “there.”
+The best part about reverse engineering a goal is having a very clear path about how to get “there”.
 
 Normally, the steps toward the goal is continual sets of qualifications (or requirements) we need to meet. Take moving to a new country, for example, you have to go through a long process that often includes the following:
 - Interviews
@@ -21,7 +21,7 @@ Normally, the steps toward the goal is continual sets of qualifications (or requ
 - Background checks
 - …and so on
 
-With each sub-goals, you have more minor goals like notarizing document or meeting a certain level of income standard. The end goal we’ve reverse-engineered is still “moving to a new country..”
+With each sub-goals, you have more minor goals like notarizing document or meeting a certain level of income standard. The end goal we’ve reverse-engineered is still “moving to a new country.”
 
 The biggest problem though, is that by reverse-engineering a goal, we become extremely goal-oriented and forget to enjoy the process.
 
