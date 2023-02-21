@@ -1,5 +1,5 @@
 <div class="article-details">
-    {{ if .Params.categories }}
+    <!-- {{ if .Params.categories }}
     <header class="article-category">
         {{ range (.GetTerms "categories") }}
             <a href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }}>
@@ -8,6 +8,9 @@
         {{ end }}
     </header>
     {{ end }}
+    -->
+
+    <!-- no show article category-->
 
     <h2 class="article-title">
         <a href="{{ .RelPermalink }}">
