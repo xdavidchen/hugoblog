@@ -5,7 +5,7 @@ date: 2023-02-21T16:47:04+08:00
 slug: "fragmented and unorganized inner thoughts"
 image: 
 categories:
-  - 
+  - self-development
 tags:
   - information
   - declutter
