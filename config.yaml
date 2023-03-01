@@ -13,7 +13,7 @@ languages:
         params:
             sidebar:
                 emoji: 🇹🇼
-                subtitle: "for creative minds"
+                subtitle: "Life of Ambivert"
                 avatar:
                     enabled: true
                     local: true
