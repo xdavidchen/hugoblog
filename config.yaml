@@ -13,7 +13,7 @@ languages:
         params:
             sidebar:
                 emoji: 🇹🇼
-                subtitle: "Life of Ambivert"
+                subtitle: "the ambivert blog"
                 avatar:
                     enabled: true
                     local: true
