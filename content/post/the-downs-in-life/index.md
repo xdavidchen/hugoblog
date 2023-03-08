@@ -14,11 +14,11 @@ No matter how successful you are, there’s going to be *ups* and *downs* — on
 
 And that’s amazing.
 
-If you’re going through the *downs* of your life, it’s because of the *ups* you’ve had. Without the *ups*, you don’t know what *downs* means to you.
+If you’re going through the *downs* of your life, it’s because of the *ups* you’ve had. Without the *ups*, you don’t know what *downs* mean to you.
 
 It’s amazing because this is only about you. Your personal situation applies to you. Not your friends, your family, nor an Internet celebrity. So **only you can decide** if you are going to change it or not.
 
-Being in the “ups” all the time is boring. You get used to it. And you won’t cherish it.
+Being in the “*ups*” all the time is boring. You get used to it. And you won’t cherish it.
 
 There’s no drama.\
 There’s no story.
@@ -33,4 +33,4 @@ It's almost like emptiness.
 
 <br>
 
-Go through the “*downs*.” Remember how it feels. And be prepare for the “*ups*” again.
+Go through the “*downs*.” Remember how it feels. And be prepared for the “*ups*” again.
