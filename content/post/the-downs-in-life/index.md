@@ -1,6 +1,6 @@
 ---
 author: David Chen
-title: "The \"downs\" in fife"
+title: "The \"downs\" in life"
 date: 2023-03-06T17:19:38+08:00
 slug: "the downs in life"
 image: 
